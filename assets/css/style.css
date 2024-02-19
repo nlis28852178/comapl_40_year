@@ -88,9 +88,9 @@ html {
   .col-2-1 {width: 18%;}
   .col-3 {width: 32%;}
   .col-4 {width: 18%;}
-  .col-5 {width: 41.66%;}
+  .col-5 {width: 40%;}
   .col-6 {width: 50%;}
-  .col-7 {width: 58.33%;}
+  .col-7 {width: 60%;}
   .col-8 {width: 66.66%;}
   .col-9 {width: 75%;}
   .col-10 {width: 83.33%;}
@@ -153,7 +153,7 @@ th
 
 li
 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 li::marker {
