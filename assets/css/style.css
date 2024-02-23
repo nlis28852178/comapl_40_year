@@ -150,6 +150,7 @@ table, td, th
 li
 {
   font-size: 20px;
+  padding-bottom: 10px;
 }
 
 li::marker {
