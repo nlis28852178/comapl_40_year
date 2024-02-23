@@ -108,6 +108,7 @@ html {
   margin: 0 auto;
 }
 
+
 .max-1440{
   max-width:1500px;
   margin: 0 auto;
@@ -145,11 +146,6 @@ table, td, th
 	padding:10px;
 }
 
-th
-{
-	background-color:#4FA800;
-	color:white;
-}
 
 li
 {
