@@ -110,7 +110,7 @@ html {
 
 
 .max-1440{
-  max-width:1500px;
+  max-width:1650px;
   margin: 0 auto;
 }
 
@@ -140,17 +140,16 @@ html {
 .label-text3{
   padding-left: 30px;
 }
-
-table, td, th
+ble, td, th
 {
-	padding:10px;
+	padding:5px;
 }
-
 
 li
 {
   font-size: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
+  line-height:30px;
 }
 
 li::marker {
